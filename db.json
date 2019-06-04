@@ -1,141 +1,140 @@
 {
-    "pessoas": [
-      {
-        "id": 1,
-        "nome": "Antonio Alex Marques Albuquerque",
-		"profissao": "Analista de Sistemas",
-		"sexo": "Masculino",
-		"servicos": [
-			{
-				"descricao": "Limpeza",
-				"indicacao":[
-					{
-						"nome": "Lucas ricarte",
-						"nota": 10.0
-					},
-					{
-						"nome": "Lucas ricarte",
-						"nota": 9.0
-					},
-				]
-			},
-			{
-				"descricao": "Encanamento",
-				"indicacao":[
-					{
-						"nome": "Lucas ricarte",
-						"nota": 10.0
-					},
-					{
-						"nome": "Alex ricarte",
-						"nota": 8.0
-					},
-				]
-			}
-		]			
-      },
-      {
-        "id": 2,
-        "nome": "Lucas Ricarte",
-		"Profissao": "Analista de Sistemas",
-		"sexo": "Masculino",
-		"servicos": [
-			{
-				"descricao": "Limpeza",
-				"indicacao":[
-					{
-						"nome": "Lucas ricarte",
-						"nota": 10.0
-					},
-					{
-						"nome": "Lucas ricarte",
-						"nota": 9.0
-					},
-				]
-			},
-			{
-				"descricao": "Encanamento",
-				"indicacao":[
-					{
-						"nome": "Lucas ricarte",
-						"nota": 10.0
-					},
-					{
-						"nome": "Alex ricarte",
-						"nota": 8.0
-					},
-				]
-			}
-		]		
-      },
-	  {
-        "id": 3,
-        "nome": "Gabriel Correia",
-		"Profissao": "Analista de Infraestrutura",
-		"sexo": "Masculino" ,
-		"servicos": [
-			{
-				"descricao": "Limpeza",
-				"indicacao":[
-					{
-						"nome": "Lucas ricarte",
-						"nota": 10.0
-					},
-					{
-						"nome": "Lucas ricarte",
-						"nota": 9.0
-					},
-				]
-			},
-			{
-				"descricao": "Encanamento",
-				"indicacao":[
-					{
-						"nome": "Lucas ricarte",
-						"nota": 10.0
-					},
-					{
-						"nome": "Alex ricarte",
-						"nota": 8.0
-					},
-				]
-			}
-		]
-	  },
-	  {
-        "id": 4,
-        "nome": "Rafael Paula",
-		"Profissao": "Analista de Infraestrutura",
-		"sexo": "Masculino" ,
-		"servicos": [
-			{
-				"descricao": "Limpeza",
-				"indicacao":[
-					{
-						"nome": "Lucas ricarte",
-						"nota": 10.0
-					},
-					{
-						"nome": "Lucas ricarte",
-						"nota": 9.0
-					},
-				]
-			},
-			{
-				"descricao": "Encanamento",
-				"indicacao":[
-					{
-						"nome": "Lucas ricarte",
-						"nota": 10.0
-					},
-					{
-						"nome": "Alex ricarte",
-						"nota": 8.0
-					},
-				]
-			}
-		]
-	  }
-	  
-	]			
+	"pessoas": [
+		{
+			"id": 1,
+			"nome": "Antonio Alex Marques Albuquerque",
+			"profissao": "Analista de Sistemas",
+			"sexo": "Masculino",
+			"servicos": [
+				{
+					"descricao": "Limpeza",
+					"indicacao": [
+						{
+							"nome": "Lucas ricarte",
+							"nota": 10.0
+						},
+						{
+							"nome": "Lucas ricarte",
+							"nota": 9.0
+						}
+					]
+				},
+				{
+					"descricao": "Encanamento",
+					"indicacao": [
+						{
+							"nome": "Lucas ricarte",
+							"nota": 10.0
+						},
+						{
+							"nome": "Alex ricarte",
+							"nota": 9.0
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 2,
+			"nome": "Lucas Ricarte",
+			"Profissao": "Analista de Sistemas",
+			"sexo": "Masculino",
+			"servicos": [
+				{
+					"descricao": "Limpeza",
+					"indicacao": [
+						{
+							"nome": "Lucas ricarte",
+							"nota": 10.0
+						},
+						{
+							"nome": "Lucas ricarte",
+							"nota": 9.0
+						}
+					]
+				},
+				{
+					"descricao": "Encanamento",
+					"indicacao": [
+						{
+							"nome": "Lucas ricarte",
+							"nota": 10.0
+						},
+						{
+							"nome": "Alex ricarte",
+							"nota": 8.0
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 3,
+			"nome": "Gabriel Correia",
+			"Profissao": "Analista de Infraestrutura",
+			"sexo": "Masculino",
+			"servicos": [
+				{
+					"descricao": "Limpeza",
+					"indicacao": [
+						{
+							"nome": "Lucas ricarte",
+							"nota": 10.0
+						},
+						{
+							"nome": "Lucas ricarte",
+							"nota": 9.0
+						}
+					]
+				},
+				{
+					"descricao": "Encanamento",
+					"indicacao": [
+						{
+							"nome": "Lucas ricarte",
+							"nota": 10.0
+						},
+						{
+							"nome": "Alex ricarte",
+							"nota": 8.0
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": 4,
+			"nome": "Rafael Paula",
+			"Profissao": "Analista de Infraestrutura",
+			"sexo": "Masculino",
+			"servicos": [
+				{
+					"descricao": "Limpeza",
+					"indicacao": [
+						{
+							"nome": "Lucas ricarte",
+							"nota": 10.0
+						},
+						{
+							"nome": "Lucas ricarte",
+							"nota": 9.0
+						}
+					]
+				},
+				{
+					"descricao": "Encanamento",
+					"indicacao": [
+						{
+							"nome": "Lucas ricarte",
+							"nota": 10.0
+						},
+						{
+							"nome": "Alex ricarte",
+							"nota": 8.0
+						}
+					]
+				}
+			]
+		}
+	]
 }
