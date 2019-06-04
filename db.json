@@ -3,13 +3,58 @@
       {
         "id": 1,
         "nome": "Antonio Alex Marques Albuquerque",
-		"Profissao": "Analista de Sistemas"
+		"Profissao": "Analista de Sistemas",
+		"sexo": "Masculino",
+		"carros": [
+			{
+				"marca": "Chevrolet"
+			},
+			{
+				"marca": "Hyunday"
+			}
+		]		
       },
       {
         "id": 2,
         "nome": "Lucas Ricarte",
-		"Profissao": "Analista de Sistemas"
+		"Profissao": "Analista de Sistemas",
+		"sexo": "Masculino",
+		"carros": [
+			{
+				"marca": "Chevrolet"
+			},
+			{
+				"marca": "Hyunday"
+			}
+		]		
+      },
+      {
+        "id": 3,
+        "nome": "Gabriel Correia",
+		"Profissao": "Analista de Infraestrutura",
+		"sexo": "Masculino" ,
+		"carros": [
+			{
+				"marca": "Chevrolet"
+			},
+			{
+				"marca": "Hyunday"
+			}
+		]		
+      },
+      {
+        "id": 4,
+        "nome": "Monica",
+		"Profissao": "Analista de Infraestrutura",
+		"sexo": "Feminino",
+		"carros": [
+			{
+				"marca": "Chevrolet"
+			},
+			{
+				"marca": "Hyunday"
+			}
+		]		
       }
-
     ]
   }
