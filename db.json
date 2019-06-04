@@ -1,11 +1,15 @@
 {
-    "posts": [
+    "pessoas": [
       {
         "id": 1,
-        "title": "hello"
+        "nome": "Antonio Alex Marques Albuquerque",
+		"Profissao": "Analista de Sistemas"
+      },
+      {
+        "id": 2,
+        "nome": "Lucas Ricarte",
+		"Profissao": "Analista de Sistemas"
       }
-    ],
-    "profile": {
-      "name": "typicode"
-    }
+
+    ]
   }
